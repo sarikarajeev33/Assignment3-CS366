@@ -1,6 +1,6 @@
 # Assignment 3 - A list of WHAT?
-Design Due: Sunday 3/1    
-Final Due: Thursday 3/12
+Design Due: Friday 3/12   
+Final Due: Friday 3/19
 
 # Goal
 To gain experience with:
@@ -28,14 +28,14 @@ You must be able to do the following with your list:
 I have provided the skeleton of a main program to demonstrate functionality of the list. This skeleton will need some changes.
 
 # Design
-Design Due: Sunday 3/1
+Design Due: Friday 3/12
 
 1. Create a set of milestones. Each milestone should include a test case or test cases to ensure that you have correctly reached that milestone before moving on to the next bit of coding. These milestones would be good times to commit to GitHub (you can see commits using the ```git log``` command, if you are curious).  Test cases should have the same form as in assignment 2: in, out, rationale. Place your milestones in ***milestones.txt*** in your GitHub repo. 
 2. Come up with additional analysis questions that you need answered. Place these questions in ***questions.txt*** in your GitHub repo.
 3. Create card.c and card.h such that you can at least: create a new card, check for card equality, pretty print a card. How a card is stored internally is up to you.
 
 # Final submission
-Final Due: Thursday 3/12
+Final Due: Friday 3/19
 
 Your GitHub repo should contain:
 1. A ```Makefile``` that I can use to run ```make clean``` and ```make all``` to remove derivable files and create all needed executables, respectively. I have provided a file that should serve as an execellent starting point. You may not need to make any changes depending on your implementation.
